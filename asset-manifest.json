@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/MohitJi-react/static/css/main.f1a30425.css",
-    "main.js": "/MohitJi-react/static/js/main.cc781f31.js",
+    "main.js": "/MohitJi-react/static/js/main.a6b697b1.js",
     "static/js/453.6b913f60.chunk.js": "/MohitJi-react/static/js/453.6b913f60.chunk.js",
     "static/media/IndexHeaderBackground.jpg": "/MohitJi-react/static/media/IndexHeaderBackground.c5a697da7bf29474fe2c.jpg",
     "index.html": "/MohitJi-react/index.html",
     "main.f1a30425.css.map": "/MohitJi-react/static/css/main.f1a30425.css.map",
-    "main.cc781f31.js.map": "/MohitJi-react/static/js/main.cc781f31.js.map",
+    "main.a6b697b1.js.map": "/MohitJi-react/static/js/main.a6b697b1.js.map",
     "453.6b913f60.chunk.js.map": "/MohitJi-react/static/js/453.6b913f60.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f1a30425.css",
-    "static/js/main.cc781f31.js"
+    "static/js/main.a6b697b1.js"
   ]
 }
