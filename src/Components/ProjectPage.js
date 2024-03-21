@@ -60,12 +60,15 @@ export default function ProjecPage({ id, ProjectsDatabase }) {
                         <section className="col d-flex flex-column py-5 ">
                                 <a
                                     className="fs-3 my-2 purple mx-auto tittle text-decoration-none"
+                                    target="_blank"
                                     href={projectData.GitLink}
                                 >
                                     Click Here to see Code (GitHub)
                                 </a>
                                 <a
                                     className="fs-3 my-2 purple mx-auto tittle text-decoration-none"
+                                    target="_blank"
+
                                     href={projectData.LiveLink}
                                 >
                                     Click Here to see Live Preview (Hosted)
