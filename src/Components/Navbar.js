@@ -51,7 +51,7 @@ export default function Navbar({ SiteName }) {
             >
                 <div className=" container-fluid w-auto">
                     {/* Navbar brand */}
-                    <a className=" fs-1 tittle nav-item navbar-brand " style={{color: TextColor, pointer:'cursor'}}  href="/">
+                    <a className=" fs-1 tittle nav-item navbar-brand " style={{color: TextColor, pointer:'cursor'}}  href="/MohitJi-react">
                         {SiteName}
                     </a>
                     {/* Navbar Items shows when click on Btn */}
@@ -68,7 +68,7 @@ export default function Navbar({ SiteName }) {
                                         style={{color: TextColor}}
                                         
                                         aria-current="page"
-                                        href="/"
+                                        href="/MohitJi-react"
                                     >
                                         Home
                                     </a>
@@ -78,7 +78,7 @@ export default function Navbar({ SiteName }) {
                                         className="nav-link tittle white"
                                         style={{color: TextColor}}
                                         aria-current="page"
-                                        href="#scrollspyHeading2"
+                                        href="/MohitJi-react/#scrollspyHeading2"
                                     >
                                         About
                                     </a>
@@ -88,7 +88,7 @@ export default function Navbar({ SiteName }) {
                                         className="nav-link tittle white"
                                         style={{color: TextColor}}
                                         aria-current="page"
-                                        href="#scrollspyHeading3"
+                                        href="/MohitJi-react/#scrollspyHeading3"
                                     >
                                         Portfolio
                                     </a>
@@ -98,7 +98,7 @@ export default function Navbar({ SiteName }) {
                                         className="nav-link tittle white"
                                         style={{color: TextColor}}
                                         aria-current="page"
-                                        href="#scrollspyHeading4"
+                                        href="/MohitJi-react/#scrollspyHeading4"
                                     >
                                         Contact
                                     </a>
