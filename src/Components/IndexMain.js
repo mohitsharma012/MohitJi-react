@@ -1,5 +1,4 @@
 import react, { useState } from "react";
-import man from "./images/man.png";
 
 export default function IndexMain(props) {
   const { ProjectsDatabase, PortfolioPage } = props;
@@ -12,7 +11,7 @@ export default function IndexMain(props) {
         {/* this is about me section  */}
         <div className="container row m-auto mb-5  px-5" id="scrollspyHeading2">
           <section className="col-4  ">
-            <img src={man} className="w-100" alt="man" />
+            <img src='./images/man.png' className="w-100" alt="man" />
           </section>
           <section className="col-8 align-items-center m-auto">
             <span>Who Am I ?</span>

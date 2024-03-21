@@ -1,5 +1,4 @@
 import React from 'react'
-import indexHeaderImg from './images/index_headex.png'
 
 export default function IndexHeader() {
     return (
@@ -21,7 +20,7 @@ export default function IndexHeader() {
                         <button class="btn bg-purple bg-purple-hover text-white my-4 fw-light fs-6 px-3 font-family-times" type="submit">Visit my Works</button>
                     </section>
                     <section className=' m-auto col-5 z-1 IndexHeaderImg'>
-                        <img style={{ width: "70vh" }} src={indexHeaderImg} alt="" />
+                        <img style={{ width: "70vh" }} src='./images/index_headex.png' alt="" />
                     </section>
                 </div>
             </div>
