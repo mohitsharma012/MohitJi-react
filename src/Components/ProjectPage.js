@@ -66,7 +66,7 @@ export default function ProjecPage({ id, ProjectsDatabase }) {
                                 </a>
                                 <a
                                     className="fs-3 my-2 purple mx-auto tittle text-decoration-none"
-                                    href={projectData.GitLink}
+                                    href={projectData.LiveLink}
                                 >
                                     Click Here to see Live Preview (Hosted)
                                 </a>
