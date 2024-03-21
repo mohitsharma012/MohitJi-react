@@ -1,12 +1,12 @@
 const ProjectsDatabase = [
     {
         ProjectId : 1,
-        ProjectName : 'AlleyBot - An AI Friend to Talk With',
+        ProjectName : 'AlleyBot - ',
         ProjectDescription: 'AlleyBot is a cutting-edge chatbot application developed using the Django framework. It integrates advanced AI algorithms to simulate engaging and realistic conversations, providing users with an interactive and user-friendly chatting experience. This project showcases my skills in Python, Django, and AI, demonstrating my ability to create intuitive and intelligent web applications.',
         ProjectSkills : 'HTML5 · Python (Programming Language) · dajngo · Cascading Style Sheets (CSS) · JavaScript · SQLite · OpenAI Products',
         GitLink : 'https://github.com/mohitsharma012/alleybot.git',
         LiveLink : 'https://alleybot.onrender.com/',
-        img1 : '/ProjectImages/project1_1.jpeg',
+        img1 : './ProjectImages/project1_1.jpeg',
         img2 : '/ProjectImages/project1_2.jpeg',
         img3 : '/ProjectImages/project1_3.jpeg',
         
